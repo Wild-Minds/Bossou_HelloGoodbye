@@ -19,3 +19,4 @@ feature of chimpanzee social interactions. Current methodological difficulties r
 hinder our ability to discriminate potential parting rituals within communication before departures and should provide a
 note of caution in the interpretation of all signals produced during fusions as ‘greetings’.
 
+Code and Data will be made available in this repository.
